@@ -1,0 +1,25 @@
+.user-info__edit-button{
+position: absolute;
+top: 181px;
+background-color: rgba(0, 0, 0, .5);
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+display: block;
+cursor: pointer;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+.user-info__edit-button:focus {
+ outline-color: greenyellow;
+}
+    
+.user-info__edit-button:hover{
+color: yellow;
+border: 1px solid yellow;
+}
+
+
