@@ -6,7 +6,7 @@
   const popup = document.querySelector('.popup'); //окно для добавления новых карточек
   const popupForm = popup.querySelector('.popup__form'); //тело формы
   const form = document.forms.new; //получаем новую форму
-
+//test
   //popup-edit
   const popupEdit = document.querySelector('.popup-edit'); //окно для редактирования профиля
   const popupEditForm = popupEdit.querySelector('.popup-edit__form'); //тело формы
