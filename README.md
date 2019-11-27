@@ -11,9 +11,9 @@
 http://www.rostov-na-ladoni.ru/
 
 Используемые технологии:
-JavaScript
-HTML
-CSS
+JavaScript;
+HTML;
+CSS;
 
 Автор:
 Татьяна Романченко 
