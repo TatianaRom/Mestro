@@ -10,6 +10,11 @@
 Демо:
 http://www.rostov-na-ladoni.ru/
 
+Используемые технологии:
+JavaScript
+HTML
+CSS
+
 Автор:
 Татьяна Романченко 
 
