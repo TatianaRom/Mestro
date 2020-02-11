@@ -1,0 +1,14 @@
+.user-info__photo {
+  width: 210.94px;
+  height: 159.38px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+
+}
+
+@media screen and (max-width: 980px) {
+  .user-info__photo {
+    margin-top: 40px;
+  }
+}

@@ -1,0 +1,14 @@
+.popup-img__big {
+    position: relative;
+    border-radius: 0px;
+    max-width: 80vw;
+    max-height: 80vh;
+    box-sizing: border-box;
+  }
+  
+  @media screen and (max-width: 540px) {
+    .popup-img__big {
+      width: calc(100% - 60px);
+    }
+  }
+  
