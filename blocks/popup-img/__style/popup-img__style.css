@@ -1,7 +1,0 @@
-@import url(./__big/popup-img__big.css);
-@import url(./__close/popup-img__close.css);
-@import url(./_is-opened/popup-img_is-opened.css);
-
-.popup-img__style{
-    position: relative;
-}
